@@ -22,3 +22,6 @@ git clone https://github.com/kave-rafiee-eng/drive_contorol_opto.git
 test clone
 
 git push -https://github.com/kave-rafiee-eng/drive_contorol_opto.git
+
+
+git reset --hard
